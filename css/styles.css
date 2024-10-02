@@ -32,7 +32,10 @@ font-weight: 700;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.nav-item:hover,:focus{
+.nav-item:hover{
+    color: #404bbf;
+}
+.nav-item:focus {
     color: #404bbf;
 }
 .contact-info{
@@ -45,8 +48,11 @@ font-weight: 700;
     color: #434455;
 font-style: normal;
  }
-.contact-link:hover,:focus{
+.contact-link:hover{
 color: #404bbf;
+}
+.contact-link:focus {
+    color: #404bbf;
 }
 .hero-section {background: #2e2f42;
 }
@@ -69,8 +75,11 @@ font-weight: 500;
     background-color: #4D5AE5;
     cursor: pointer;
 }
-.order-button:hover,:focus{
+.order-button:hover{
 background-color: #404BBF;
+}
+.order-button:focus {
+    background-color: #404BBF;
 }
 
 .advantages-title {
@@ -88,7 +97,7 @@ background-color: #404BBF;
     letter-spacing: 0.02em;
     color: #434455;}
 
-.team-section {background-color: #f4f4fd;}
+.team-section {background-color: #ffffff;}
 
 .team-title {font-weight: 700;
     font-size: 36px;
