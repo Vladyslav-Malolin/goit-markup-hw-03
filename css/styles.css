@@ -35,7 +35,7 @@ font-weight: 700;
 .nav-item:hover{
     color: #404bbf;
 }
-.nav-item:focus {
+.nav-item:focus{
     color: #404bbf;
 }
 .contact-info{
@@ -97,7 +97,7 @@ background-color: #404BBF;
     letter-spacing: 0.02em;
     color: #434455;}
 
-.team-section {background-color: #ffffff;}
+.team-section {background-color: #FFFFFF;}
 
 .team-title {font-weight: 700;
     font-size: 36px;
