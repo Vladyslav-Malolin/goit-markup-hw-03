@@ -99,7 +99,8 @@ background-color: #404BBF;
     letter-spacing: 0.02em;
     color: #434455;}
 
-.team-section {background-color: #F4F4FD;}
+.team-section {
+    background-color: #F4F4FD;}
 
 .team-title {font-weight: 700;
     font-size: 36px;
@@ -110,7 +111,11 @@ background-color: #404BBF;
 text-transform: capitalize;}
 
 .team-member {
-    background-color: #FFFFFF;}
+    background-color: #FFFFFF;
+}
+.team-list {
+            background-color: #FFFFFF;
+        }
 
 .team-member-name {font-weight: 500;
     font-size: 20px;
